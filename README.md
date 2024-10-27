@@ -12,4 +12,5 @@ You can draw a New Card
 
 And if your score equates, win by getting a Black Jack...
 
-![image](https://github.com/user-attachments/assets/46425cfb-cedc-41af-8707-9380074a0c00)
+![image](https://github.com/user-attachments/assets/854fbd9d-b860-4b15-a698-a33684b1ade4)
+
