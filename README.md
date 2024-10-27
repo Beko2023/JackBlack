@@ -1,4 +1,4 @@
-Simple JS Black Jack Game built to practice using arrays and objects as well as for loops for DOM manipulation.
+Simple JS Black Jack Game built to practice using arrays and objects to store data, execute simple calculations, DOM manipulation with loops, eventually allowing the user to play a simplified version of the popular card game. 
 
 ![image](https://github.com/user-attachments/assets/650d2293-ee41-4c17-b70c-c85d234fe1b8)
 
